@@ -4,7 +4,7 @@ I created this project for Advanced.NET programming. This project interacts with
 
 ## Demo
 
-to demo the project open the exe found at Spoonacular Project\12.2Assignment\bin\Debug\12.2Assignment.exe
+to demo the project open the exe found at 12.2Assignment\bin\Debug\12.2Assignment.exe
 
 ## Authors
 
